@@ -1,0 +1,25 @@
+{
+  "name": "whatsapp-api-demo-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagoavila/whatsapp-api-demo-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagoavila/whatsapp-api-demo-nodejs/issues"
+  },
+  "homepage": "https://github.com/tiagoavila/whatsapp-api-demo-nodejs#readme",
+  "description": "",
+  "dependencies": {
+    "@fastify/env": "^5.0.2",
+    "axios": "^1.7.9",
+    "fastify": "^5.2.1"
+  }
+}
